@@ -29,7 +29,7 @@ import matplotlib.pyplot as plt
 df=pd.read_csv("titanic_dataset.csv")
 df.head()
 ```
-<img src="https://github.com/PriyankaAnnadurai/EXNO-6-DS/assets/118351569/c111b446-500b-4b06-b284-572eb6a6d182" width="300" height="300"> 
+<img src="https://github.com/PriyankaAnnadurai/EXNO-6-DS/assets/118351569/c111b446-500b-4b06-b284-572eb6a6d182" width="600" height="400"> 
 
 
 ### 1.Line Plot
@@ -53,6 +53,8 @@ sns.lineplot(x=x,y=y3)
 plt.title('Multi Line Plot')
 ```
 <img src="https://github.com/PriyankaAnnadurai/EXNO-6-DS/assets/118351569/6b052b9d-b734-4079-a94d-f9c0f46039d6" width="300" height="300"> 
+
+
 ## TO VISUALIZE RELATIONSHIPS
 ### 1.Bar Chart
 ```py
